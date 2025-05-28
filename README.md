@@ -17,19 +17,19 @@ This project simulates a real-world Reliability-Centered Maintenance (RCM) imple
 ## 📂 Project Structure
 
 - `/data/fmea_input.xlsx`  
-  Simulated Failure Mode and Effects Analysis table with sample equipment data.
+  Simulated Failure Mode and Effects Analysis table with sample equipment data. Will be added
 
 - `/logic/rcm_decision_tree.pdf`  
-  Decision logic used to assign appropriate maintenance policies.
+  Decision logic used to assign appropriate maintenance policies. Will be added
 
 - `/output/rcm_maintenance_plan.xlsx`  
-  Final RCM-based task plan with task type, frequency, consequence class.
+  Final RCM-based task plan with task type, frequency, consequence class. Will be added
 
 - `/visuals/failure_consequence_matrix.png`  
-  Visual showing severity vs. detectability of failure modes.
+  Visual showing severity vs. detectability of failure modes. Will be added
 
 - `/docs/RCM_summary_report.pdf`  
-  PDF report summarizing the methodology, analysis, and proposed maintenance actions.
+  PDF report summarizing the methodology, analysis, and proposed maintenance actions. Will be added
 
 ---
 
